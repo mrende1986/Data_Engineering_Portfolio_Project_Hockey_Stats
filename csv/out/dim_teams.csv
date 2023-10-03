@@ -1,0 +1,33 @@
+ID,Division,Team,City,Arena,Capacity,Founded,Joined,General manager,Head coach,Captain,Conference,ABV
+3,Atlantic,Boston Bruins,"Boston, Massachusetts",TD Garden,17850,1924,1924,Don Sweeney,Jim Montgomery,Brad Marchand,Eastern,BOS
+4,Atlantic,Buffalo Sabres,"Buffalo, New York",KeyBank Center,19070,1970,1970,Kevyn Adams,Don Granato,Kyle Okposo,Eastern,BUF
+11,Atlantic,Detroit Red Wings,"Detroit, Michigan",Little Caesars Arena,19515,1926,1926,Steve Yzerman,Derek Lalonde,Dylan Larkin,Eastern,DET
+13,Atlantic,Florida Panthers,"Sunrise, Florida",Amerant Bank Arena,19250,1993,1993,Bill Zito,Paul Maurice,Aleksander Barkov,Eastern,FLA
+16,Atlantic,Montreal Canadiens,"Montreal, Quebec",Bell Centre,21105,1909,1917,Kent Hughes,Martin St. Louis,Nick Suzuki,Eastern,MTL
+21,Atlantic,Ottawa Senators,"Ottawa, Ontario",Canadian Tire Centre,19347,1992,1992,Pierre Dorion,D.J. Smith,Brady Tkachuk,Eastern,OTT
+27,Atlantic,Tampa Bay Lightning,"Tampa, Florida",Amalie Arena,19092,1992,1992,Julien BriseBois,Jon Cooper,Steven Stamkos,Eastern,TBL
+28,Atlantic,Toronto Maple Leafs,"Toronto, Ontario",Scotiabank Arena,18819,1917,1917,Brad Treliving,Sheldon Keefe,John Tavares,Eastern,TOR
+6,Metropolitan,Carolina Hurricanes,"Raleigh, North Carolina",PNC Arena,18680,1972,1979,Don Waddell,Rod Brind'Amour,Jordan Staal,Eastern,CAR
+9,Metropolitan,Columbus Blue Jackets,"Columbus, Ohio",Nationwide Arena,18144,2000,2000,Jarmo Kekalainen,Pascal Vincent,Boone Jenner,Eastern,CBJ
+18,Metropolitan,New Jersey Devils,"Newark, New Jersey",Prudential Center,16514,1974,1974,Tom Fitzgerald,Lindy Ruff,Nico Hischier,Eastern,NJD
+19,Metropolitan,New York Islanders,"Elmont, New York",UBS Arena,17255,1972,1972,Lou Lamoriello,Lane Lambert,Anders Lee,Eastern,NYI
+20,Metropolitan,New York Rangers,"New York City, New York",Madison Square Garden,18006,1926,1926,Chris Drury,Peter Laviolette,Jacob Trouba,Eastern,NYR
+22,Metropolitan,Philadelphia Flyers,"Philadelphia, Pennsylvania",Wells Fargo Center,19500,1967,1967,Daniel Brière,John Tortorella,Vacant,Eastern,PHI
+23,Metropolitan,Pittsburgh Penguins,"Pittsburgh, Pennsylvania",PPG Paints Arena,18387,1967,1967,Kyle Dubas,Mike Sullivan,Sidney Crosby,Eastern,PIT
+31,Metropolitan,Washington Capitals,"Washington, D.C.",Capital One Arena,18573,1974,1974,Brian MacLellan,Spencer Carbery,Alexander Ovechkin,Eastern,WSH
+2,Central,Arizona Coyotes,"Tempe, Arizona",Mullett Arena,4600,1972,1979,Bill Armstrong,Andre Tourigny,Vacant,Western,ARI
+7,Central,Chicago Blackhawks,"Chicago, Illinois",United Center,19717,1926,1926,Kyle Davidson,Luke Richardson,Vacant,Western,CHI
+8,Central,Colorado Avalanche,"Denver, Colorado",Ball Arena,17809,1972,1979,Chris MacFarland,Jared Bednar,Gabriel Landeskog,Western,COL
+10,Central,Dallas Stars,"Dallas, Texas",American Airlines Center,18532,1967,1967,Jim Nill,Peter DeBoer,Jamie Benn,Western,DAL
+15,Central,Minnesota Wild,"Saint Paul, Minnesota",Xcel Energy Center,17954,2000,2000,Bill Guerin,Dean Evason,Jared Spurgeon,Western,MIN
+17,Central,Nashville Predators,"Nashville, Tennessee",Bridgestone Arena,17159,1998,1998,Barry Trotz,Andrew Brunette,Roman Josi,Western,NSH
+26,Central,St. Louis Blues,"St. Louis, Missouri",Enterprise Center,18724,1967,1967,Doug Armstrong,Craig Berube,Brayden Schenn,Western,STL
+32,Central,Winnipeg Jets,"Winnipeg, Manitoba",Canada Life Centre,15321,1999,1999,Kevin Cheveldayoff,Rick Bowness,Adam Lowry,Western,WPG
+1,Pacific,Anaheim Ducks,"Anaheim, California",Honda Center,17174,1993,1993,Pat Verbeek,Greg Cronin,Vacant,Western,ANA
+5,Pacific,Calgary Flames,"Calgary, Alberta",Scotiabank Saddledome,19289,1972,1972,Craig Conroy,Ryan Huska,Mikael Backlund,Western,CGY
+12,Pacific,Edmonton Oilers,"Edmonton, Alberta",Rogers Place,18347,1972,1979,Ken Holland,Jay Woodcroft,Connor McDavid,Western,EDM
+14,Pacific,Los Angeles Kings,"Los Angeles, California",Crypto.com Arena,18230,1967,1967,Rob Blake,Todd McLellan,Anze Kopitar,Western,LAK
+24,Pacific,San Jose Sharks,"San Jose, California",SAP Center,17562,1991,1991,Mike Grier,David Quinn,Logan Couture,Western,SJS
+25,Pacific,Seattle Kraken,"Seattle, Washington",Climate Pledge Arena,17151,2021,2021,Ron Francis,Dave Hakstol,Vacant,Western,SEA
+29,Pacific,Vancouver Canucks,"Vancouver, British Columbia",Rogers Arena,18910,1945,1970,Patrik Allvin,Rick Tocchet,Quinn Hughes,Western,VAN
+30,Pacific,Vegas Golden Knights,"Paradise, Nevada",T-Mobile Arena,17500,2017,2017,Kelly McCrimmon,Bruce Cassidy,Mark Stone,Western,VEG
