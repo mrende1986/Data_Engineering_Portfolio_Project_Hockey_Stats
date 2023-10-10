@@ -1,0 +1,32 @@
+tracked_player_name,Point_Number,Team_Game_Key,P,Time,Goal_Strength,Description,goal_scorer,primary_assist,secondary_assist
+"Hughes, Jack",1,18-2021-R1,3,08:51,EV,Goal by Miles Wood assisted by Jack Hughes,"Wood, Miles","Hughes, Jack",
+"Hughes, Jack",2,18-2021-R1,3,13:46,EV,Goal by Ty Smith assisted by Matt Tennyson and Jack Hughes,"Smith, Ty","Tennyson, Matt","Hughes, Jack"
+"Hughes, Jack",3,18-2021-R2,1,16:15,EV,Goal by Miles Wood assisted by Ty Smith and Jack Hughes,"Wood, Miles","Smith, Ty","Hughes, Jack"
+"Hughes, Jack",4,18-2021-R3,2,04:13,EV,Goal by Jack Hughes assisted by Ty Smith and Yegor Sharangovich,"Hughes, Jack","Smith, Ty","Sharangovich, Yegor"
+"Hughes, Jack",5,18-2021-R3,2,08:38,EV,Goal by Jack Hughes,"Hughes, Jack",,
+"Hughes, Jack",6,18-2021-R3,2,16:00,PP,Goal by Miles Wood assisted by Jack Hughes and Kyle Palmieri,"Wood, Miles","Hughes, Jack","Palmieri, Kyle"
+"Hughes, Jack",7,18-2021-R5,1,17:00,PP,Goal by Jack Hughes assisted by Ty Smith and Kyle Palmieri,"Hughes, Jack","Smith, Ty","Palmieri, Kyle"
+"Hughes, Jack",8,18-2021-R8,3,01:37,EV,Goal by Andreas Johnsson assisted by Jack Hughes and Damon Severson,"Johnsson, Andreas","Hughes, Jack","Severson, Damon"
+"Hughes, Jack",9,18-2021-R11,2,01:34,EV,Goal by Kyle Palmieri assisted by Jack Hughes,"Palmieri, Kyle","Hughes, Jack",
+"Hughes, Jack",10,18-2021-R12,3,00:40,EV,Goal by Kyle Palmieri assisted by Jack Hughes and Will Butcher,"Palmieri, Kyle","Hughes, Jack","Butcher, Will"
+"Hughes, Jack",11,18-2021-R13,2,03:55,EV,Goal by Jack Hughes assisted by Andreas Johnsson and Kyle Palmieri,"Hughes, Jack","Johnsson, Andreas","Palmieri, Kyle"
+"Hughes, Jack",12,18-2021-R16,1,18:16,PP,Goal by Nico Hischier assisted by P.K. Subban and Jack Hughes,"Hischier, Nico","Subban, P.K.","Hughes, Jack"
+"Hughes, Jack",13,18-2021-R19,1,07:12,EV,Goal by Jack Hughes assisted by Sami Vatanen,"Hughes, Jack","Vatanen, Sami",
+"Hughes, Jack",14,18-2021-R23,3,15:52,EV,Goal by Jack Hughes assisted by Andreas Johnsson and Jesper Bratt,"Hughes, Jack","Johnsson, Andreas","Bratt, Jesper"
+"Hughes, Jack",15,18-2021-R27,1,10:02,EV,Goal by Jack Hughes assisted by Ty Smith and Kyle Palmieri,"Hughes, Jack","Smith, Ty","Palmieri, Kyle"
+"Hughes, Jack",16,18-2021-R27,2,08:42,PP,Goal by P.K. Subban assisted by Jesper Bratt and Jack Hughes,"Subban, P.K.","Bratt, Jesper","Hughes, Jack"
+"Hughes, Jack",17,18-2021-R36,2,17:42,EV,Goal by Yegor Sharangovich assisted by Ryan Murray and Jack Hughes,"Sharangovich, Yegor","Murray, Ryan","Hughes, Jack"
+"Hughes, Jack",18,18-2021-R38,1,16:04,EV,Goal by Jack Hughes assisted by Janne Kuokkanen and Yegor Sharangovich,"Hughes, Jack","Kuokkanen, Janne","Sharangovich, Yegor"
+"Hughes, Jack",19,18-2021-R38,3,18:17,EV,Goal by Yegor Sharangovich assisted by Jack Hughes and Janne Kuokkanen,"Sharangovich, Yegor","Hughes, Jack","Kuokkanen, Janne"
+"Hughes, Jack",20,18-2021-R38,3,19:28,EV,Goal by Janne Kuokkanen assisted by Yegor Sharangovich and Jack Hughes,"Kuokkanen, Janne","Sharangovich, Yegor","Hughes, Jack"
+"Hughes, Jack",21,18-2021-R39,2,05:39,EV,Goal by Jack Hughes assisted by Janne Kuokkanen and Yegor Sharangovich,"Hughes, Jack","Kuokkanen, Janne","Sharangovich, Yegor"
+"Hughes, Jack",22,18-2021-R43,3,05:34,EV,Goal by P.K. Subban assisted by Jack Hughes and Yegor Sharangovich,"Subban, P.K.","Hughes, Jack","Sharangovich, Yegor"
+"Hughes, Jack",23,18-2021-R43,3,06:38,EV,Goal by Yegor Sharangovich assisted by Jack Hughes,"Sharangovich, Yegor","Hughes, Jack",
+"Hughes, Jack",24,18-2021-R45,3,12:52,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Janne Kuokkanen,"Hughes, Jack","Sharangovich, Yegor","Kuokkanen, Janne"
+"Hughes, Jack",25,18-2021-R47,2,08:45,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Will Butcher,"Hughes, Jack","Sharangovich, Yegor","Butcher, Will"
+"Hughes, Jack",26,18-2021-R49,1,18:45,PP,Goal by Nico Hischier assisted by Jack Hughes and Pavel Zacha,"Hischier, Nico","Hughes, Jack","Zacha, Pavel"
+"Hughes, Jack",27,18-2021-R49,2,02:20,PP,Goal by Pavel Zacha assisted by Jack Hughes and Ty Smith,"Zacha, Pavel","Hughes, Jack","Smith, Ty"
+"Hughes, Jack",28,18-2021-R51,2,00:52,EV,Goal by Janne Kuokkanen assisted by Jack Hughes and Yegor Sharangovich,"Kuokkanen, Janne","Hughes, Jack","Sharangovich, Yegor"
+"Hughes, Jack",29,18-2021-R51,3,14:59,EV,Goal by Yegor Sharangovich assisted by Jack Hughes,"Sharangovich, Yegor","Hughes, Jack",
+"Hughes, Jack",30,18-2021-R53,1,08:42,PP,Goal by Pavel Zacha assisted by Jack Hughes and Nico Hischier,"Zacha, Pavel","Hughes, Jack","Hischier, Nico"
+"Hughes, Jack",31,18-2021-R53,OT,02:42,EV,Goal by Pavel Zacha assisted by Jack Hughes and Will Butcher,"Zacha, Pavel","Hughes, Jack","Butcher, Will"

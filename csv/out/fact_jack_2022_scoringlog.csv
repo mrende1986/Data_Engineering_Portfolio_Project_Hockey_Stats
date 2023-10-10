@@ -1,0 +1,57 @@
+tracked_player_name,Point_Number,Team_Game_Key,P,Time,Goal_Strength,Description,goal_scorer,primary_assist,secondary_assist
+"Hughes, Jack",1,18-2022-R1,2,17:58,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Janne Kuokkanen,"Hughes, Jack","Sharangovich, Yegor","Kuokkanen, Janne"
+"Hughes, Jack",2,18-2022-R1,OT,00:57,EV,Goal by Jack Hughes assisted by Ryan Graves,"Hughes, Jack","Graves, Ryan",
+"Hughes, Jack",3,18-2022-R2,1,06:42,EV,Goal by Damon Severson assisted by Jack Hughes and Ryan Graves,"Severson, Damon","Hughes, Jack","Graves, Ryan"
+"Hughes, Jack",4,18-2022-R22,1,19:36,EV,Goal by Jack Hughes assisted by Ryan Graves and Dougie Hamilton,"Hughes, Jack","Graves, Ryan","Hamilton, Dougie"
+"Hughes, Jack",5,18-2022-R24,3,19:30,EV,Goal by Michael McLeod assisted by Jack Hughes and Yegor Sharangovich,"McLeod, Michael","Hughes, Jack","Sharangovich, Yegor"
+"Hughes, Jack",6,18-2022-R25,3,18:55,EV,Goal by Yegor Sharangovich assisted by Jack Hughes and Andreas Johnsson,"Sharangovich, Yegor","Hughes, Jack","Johnsson, Andreas"
+"Hughes, Jack",7,18-2022-R26,1,18:25,EV,Goal by Jack Hughes assisted by Pavel Zacha,"Hughes, Jack","Zacha, Pavel",
+"Hughes, Jack",8,18-2022-R28,1,01:41,EV,Goal by Jack Hughes assisted by Dougie Hamilton and Tomáš Tatar,"Hughes, Jack","Hamilton, Dougie","Tatar, Tomáš"
+"Hughes, Jack",9,18-2022-R31,1,04:43,PP,Goal by Dougie Hamilton assisted by Jack Hughes and Nico Hischier,"Hamilton, Dougie","Hughes, Jack","Hischier, Nico"
+"Hughes, Jack",10,18-2022-R31,1,11:48,EV,Goal by Jesper Bratt assisted by P.K. Subban and Jack Hughes,"Bratt, Jesper","Subban, P.K.","Hughes, Jack"
+"Hughes, Jack",11,18-2022-R31,3,04:28,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Jesper Bratt,"Hughes, Jack","Sharangovich, Yegor","Bratt, Jesper"
+"Hughes, Jack",12,18-2022-R32,1,01:38,PP,Goal by Jack Hughes assisted by Dougie Hamilton and Jesper Bratt,"Hughes, Jack","Hamilton, Dougie","Bratt, Jesper"
+"Hughes, Jack",13,18-2022-R32,3,19:28,EV,Goal by Yegor Sharangovich assisted by Dougie Hamilton and Jack Hughes,"Sharangovich, Yegor","Hamilton, Dougie","Hughes, Jack"
+"Hughes, Jack",14,18-2022-R32,OT,02:55,EV,Goal by Jack Hughes assisted by Jesper Bratt and Damon Severson,"Hughes, Jack","Bratt, Jesper","Severson, Damon"
+"Hughes, Jack",15,18-2022-R33,1,07:15,EV,Goal by Yegor Sharangovich assisted by Jack Hughes and P.K. Subban,"Sharangovich, Yegor","Hughes, Jack","Subban, P.K."
+"Hughes, Jack",16,18-2022-R33,OT,02:56,EV,Goal by Nico Hischier assisted by Jack Hughes,"Hischier, Nico","Hughes, Jack",
+"Hughes, Jack",17,18-2022-R34,2,03:05,EV,Goal by Tomáš Tatar assisted by Jack Hughes and Jesper Bratt,"Tatar, Tomáš","Hughes, Jack","Bratt, Jesper"
+"Hughes, Jack",18,18-2022-R35,1,00:51,EV,Goal by Tomáš Tatar assisted by Jesper Bratt and Jack Hughes,"Tatar, Tomáš","Bratt, Jesper","Hughes, Jack"
+"Hughes, Jack",19,18-2022-R35,3,01:16,PP,Goal by Jesper Bratt assisted by Jack Hughes and Nathan Bastian,"Bratt, Jesper","Hughes, Jack","Bastian, Nathan"
+"Hughes, Jack",20,18-2022-R35,3,18:40,EV,Goal by Jack Hughes assisted by Tomáš Tatar and Ryan Graves,"Hughes, Jack","Tatar, Tomáš","Graves, Ryan"
+"Hughes, Jack",21,18-2022-R38,1,06:09,PP,Goal by Nico Hischier assisted by Jesper Bratt and Jack Hughes,"Hischier, Nico","Bratt, Jesper","Hughes, Jack"
+"Hughes, Jack",22,18-2022-R39,3,12:51,PP,Goal by Jack Hughes assisted by Damon Severson and Nico Hischier,"Hughes, Jack","Severson, Damon","Hischier, Nico"
+"Hughes, Jack",23,18-2022-R40,1,17:34,PP,Goal by Jesper Bratt assisted by Jack Hughes and Damon Severson,"Bratt, Jesper","Hughes, Jack","Severson, Damon"
+"Hughes, Jack",24,18-2022-R41,2,12:16,PP,Goal by Jesper Bratt assisted by Jack Hughes and Damon Severson,"Bratt, Jesper","Hughes, Jack","Severson, Damon"
+"Hughes, Jack",25,18-2022-R42,3,10:55,EV,Goal by Jack Hughes assisted by Jesper Bratt and Damon Severson,"Hughes, Jack","Bratt, Jesper","Severson, Damon"
+"Hughes, Jack",26,18-2022-R44,1,00:47,EV,Goal by Pavel Zacha assisted by Jack Hughes and Jesper Bratt,"Zacha, Pavel","Hughes, Jack","Bratt, Jesper"
+"Hughes, Jack",27,18-2022-R45,3,03:31,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Jesper Bratt,"Hughes, Jack","Sharangovich, Yegor","Bratt, Jesper"
+"Hughes, Jack",28,18-2022-R49,2,07:02,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Pavel Zacha,"Hughes, Jack","Sharangovich, Yegor","Zacha, Pavel"
+"Hughes, Jack",29,18-2022-R50,1,08:27,EV,Goal by Dawson Mercer assisted by Jack Hughes and Yegor Sharangovich,"Mercer, Dawson","Hughes, Jack","Sharangovich, Yegor"
+"Hughes, Jack",30,18-2022-R50,2,01:48,EV,Goal by Jack Hughes assisted by Dawson Mercer,"Hughes, Jack","Mercer, Dawson",
+"Hughes, Jack",31,18-2022-R51,2,09:24,EV,Goal by Dawson Mercer assisted by Jack Hughes,"Mercer, Dawson","Hughes, Jack",
+"Hughes, Jack",32,18-2022-R51,2,13:37,PP,Goal by Damon Severson assisted by Jack Hughes and Nico Hischier,"Severson, Damon","Hughes, Jack","Hischier, Nico"
+"Hughes, Jack",33,18-2022-R51,3,09:30,PP,Goal by Nico Hischier assisted by Jack Hughes and Jesper Bratt,"Hischier, Nico","Hughes, Jack","Bratt, Jesper"
+"Hughes, Jack",34,18-2022-R52,1,09:41,EV,Goal by Jack Hughes assisted by Ryan Graves,"Hughes, Jack","Graves, Ryan",
+"Hughes, Jack",35,18-2022-R52,1,18:55,EV,Goal by Yegor Sharangovich assisted by Jack Hughes and Jonas Siegenthaler,"Sharangovich, Yegor","Hughes, Jack","Siegenthaler, Jonas"
+"Hughes, Jack",36,18-2022-R52,3,15:45,EV,Goal by Jesper Bratt assisted by Damon Severson and Jack Hughes,"Bratt, Jesper","Severson, Damon","Hughes, Jack"
+"Hughes, Jack",37,18-2022-R53,1,09:15,EV,Goal by Jack Hughes,"Hughes, Jack",,
+"Hughes, Jack",38,18-2022-R53,1,15:24,EV,Goal by Yegor Sharangovich assisted by Dawson Mercer and Jack Hughes,"Sharangovich, Yegor","Mercer, Dawson","Hughes, Jack"
+"Hughes, Jack",39,18-2022-R54,1,00:54,PP,Goal by Jack Hughes,"Hughes, Jack",,
+"Hughes, Jack",40,18-2022-R56,2,09:26,EV,Goal by Dawson Mercer assisted by Jack Hughes and Jimmy Vesey,"Mercer, Dawson","Hughes, Jack","Vesey, Jimmy"
+"Hughes, Jack",41,18-2022-R56,OT,01:12,EV,Goal by Dougie Hamilton assisted by Pavel Zacha and Jack Hughes,"Hamilton, Dougie","Zacha, Pavel","Hughes, Jack"
+"Hughes, Jack",42,18-2022-R57,2,12:18,EV,Goal by Ty Smith assisted by Jack Hughes and Yegor Sharangovich,"Smith, Ty","Hughes, Jack","Sharangovich, Yegor"
+"Hughes, Jack",43,18-2022-R57,3,13:04,PP,Goal by Nathan Bastian assisted by Jack Hughes and Jesper Bratt,"Bastian, Nathan","Hughes, Jack","Bratt, Jesper"
+"Hughes, Jack",44,18-2022-R58,1,18:27,PP,Goal by Jack Hughes assisted by Jesper Bratt and Damon Severson,"Hughes, Jack","Bratt, Jesper","Severson, Damon"
+"Hughes, Jack",45,18-2022-R60,2,04:25,EV,Goal by Jack Hughes assisted by Jesper Bratt,"Hughes, Jack","Bratt, Jesper",
+"Hughes, Jack",46,18-2022-R60,2,11:55,EV,Goal by Nathan Bastian assisted by Yegor Sharangovich and Jack Hughes,"Bastian, Nathan","Sharangovich, Yegor","Hughes, Jack"
+"Hughes, Jack",47,18-2022-R61,3,03:51,EV,Goal by Yegor Sharangovich assisted by Jesper Bratt and Jack Hughes,"Sharangovich, Yegor","Bratt, Jesper","Hughes, Jack"
+"Hughes, Jack",48,18-2022-R63,3,09:36,PP,Goal by Jack Hughes assisted by Nico Hischier,"Hughes, Jack","Hischier, Nico",
+"Hughes, Jack",49,18-2022-R63,3,10:46,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and P.K. Subban,"Hughes, Jack","Sharangovich, Yegor","Subban, P.K."
+"Hughes, Jack",50,18-2022-R64,2,13:56,EV,Goal by Nico Hischier assisted by Jack Hughes and Dougie Hamilton,"Hischier, Nico","Hughes, Jack","Hamilton, Dougie"
+"Hughes, Jack",51,18-2022-R65,2,00:55,EV,Goal by Jack Hughes assisted by Yegor Sharangovich and Dawson Mercer,"Hughes, Jack","Sharangovich, Yegor","Mercer, Dawson"
+"Hughes, Jack",52,18-2022-R65,3,19:28,EV,Goal by Jesper Bratt assisted by Jack Hughes and Nico Hischier,"Bratt, Jesper","Hughes, Jack","Hischier, Nico"
+"Hughes, Jack",53,18-2022-R66,1,19:16,EV,Goal by Jack Hughes,"Hughes, Jack",,
+"Hughes, Jack",54,18-2022-R66,2,14:16,PP,Goal by Jack Hughes assisted by Jesper Bratt and Damon Severson,"Hughes, Jack","Bratt, Jesper","Severson, Damon"
+"Hughes, Jack",55,18-2022-R67,1,11:02,EV,Goal by Jack Hughes assisted by Nico Hischier and Damon Severson,"Hughes, Jack","Hischier, Nico","Severson, Damon"
+"Hughes, Jack",56,18-2022-R68,1,03:42,EV,Goal by Jack Hughes,"Hughes, Jack",,
